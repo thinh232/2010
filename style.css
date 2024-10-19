@@ -647,7 +647,7 @@ body {
 }
 .gift1::before {
   position: absolute;
-  content: "Nhé";
+  content: "woa <3";
   font-size: 20px;
   color: red;
   font-family: "Dancing Script", cursive;
@@ -737,7 +737,7 @@ body {
 }
 .gift3::before {
   position: absolute;
-  content: "Ra";
+  content: "Lucky<3";
   font-size: 20px;
   color: red;
   font-family: "Dancing Script", cursive;
